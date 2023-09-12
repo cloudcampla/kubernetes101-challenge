@@ -1,4 +1,4 @@
-# Kubernetes 101 challenge
+# Kubernetes 101 challenge.
 
 A small startup is developing a product that initially uses 3 layers (frontend, backend, database) and requires its infrastructure experts to deploy this solution on Kubernetes fulfilling some requirements
 
